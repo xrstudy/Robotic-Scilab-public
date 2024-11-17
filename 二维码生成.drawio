@@ -1,9 +1,34 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="1fFwSqSAMXw0OfvbMxdP">
-    <mxGraphModel>
+    <mxGraphModel dx="1221" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W33cptfuOnFTrAUfsiGJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W33cptfuOnFTrAUfsiGJ-2" target="W33cptfuOnFTrAUfsiGJ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W33cptfuOnFTrAUfsiGJ-2" value="二维码中的内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W33cptfuOnFTrAUfsiGJ-3" value="LAB-202411-0001" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="W33cptfuOnFTrAUfsiGJ-2">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W33cptfuOnFTrAUfsiGJ-4" value="CAS: 7664-93-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="W33cptfuOnFTrAUfsiGJ-2">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W33cptfuOnFTrAUfsiGJ-5" value="硫酸 98%" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="W33cptfuOnFTrAUfsiGJ-2">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W33cptfuOnFTrAUfsiGJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.012;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W33cptfuOnFTrAUfsiGJ-6" target="W33cptfuOnFTrAUfsiGJ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W33cptfuOnFTrAUfsiGJ-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAXIAAAFyAQAAAADAX2ykAAACe0lEQVR4nO2bTY6jMBCFvxojZWmkOUCOAjcb5UhzA3yUvgEskUBvFrY7dFo9o1YTepDKiyTgb/EkVD9+RUx8ZqUfn8LBeeedd955553/iLeyGqyfGsysAVgNprrXH6jH+Z35TpI0gm7tanTjatZPFwFBkqS3/LP1OL8T35TvqYXuNxiEhXQVwILd7x2jx/kDeOtZjWTN+61T6Hf+Y77TbHQvF5Hr73frcf5LfA3RKGACMbUoXWcTgPK94/Q4vy/PtnkiiG58+Kh7nSQN/5t+5/++cvzeI1RM9Ve6LpTAPk6P88/gzcwMpgbrWQ3ibNazmm4tlIPxgXqc35uPktl1NiCIZJeSmruXV6fjUD3O78Pn+iuN9XIAatUNotOChmpyeP09KZ+ukoaoYljdWiiPdroI4vLAP1uP8zvxub8y4trQvVjutIw4QjKAOJuYrLZg/5t+5/+x8vkon4W0UGI1LkhaKjJ6fj41n6suU+mq6mVTKnFqV58fnZPf9FcaoqQh3yvxqyFHsjx+z8k/+lfSGDZTwZKkoz/fU/Ma4pIbZlILGuJcx/ptyDFt/YF6nN+Lr/3VpslSCeJuDOVo1Hl+Pitf/ec8NVoA1kbE2UhtoO7+9Pn+qfnUBsFk1Z9sgyDObzzpI/U4vy/fqaThzdZrunb/6rx89a/yCkvJxXfD6p6aD9Hj/L78pr/KNtUAlK5qE7/eX52cn17fcI5LMSRvLZDyYNjffz4p//iKpEEDqQ8LnVYr4wbCYsfocf7pfJD9GiH7z0xNcT++TY/zX+Af6y9QXI1ScKFMgr3+npF///5kHS2UM9PIdsjgz/dkvPn/u5133nnnnXf+cP4P1hi0fLhz8QIAAAAASUVORK5CYII=;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="160" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
